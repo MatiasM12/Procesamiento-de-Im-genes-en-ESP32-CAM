@@ -2,6 +2,8 @@
 
 Este proyecto utiliza un ESP32-CAM para capturar imágenes, aplicar filtros de procesamiento de imágenes como Sobel y Thresholding, y guardar las imágenes procesadas en una tarjeta SD.
 
+![l (1)](https://github.com/user-attachments/assets/11139cc0-08aa-4d26-af0e-21eb2bba36e8)
+
 ## Librerías Utilizadas
 
 - `esp_camera.h`: Configuración y manejo de la cámara.
